@@ -50,4 +50,7 @@
       text-align: center;
   }
   
-  
+  #output {
+    margin-top: 2rem;
+    font-size: 5vh;
+  }
