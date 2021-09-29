@@ -40,6 +40,10 @@
   button {
       background-color: rgb(176, 110, 238);
       cursor: pointer;
+      font-size: 2vh;
+      margin-top: 1rem;
+      padding: 0.6rem;
+      border-radius: 1rem;
   }
   
   *{
